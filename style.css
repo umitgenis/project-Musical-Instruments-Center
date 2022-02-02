@@ -1,0 +1,11 @@
+a:link { color:white;
+    text-decoration:none; }  /* Linklerin ilk halidir. */
+
+a:visited { color:white; 
+    text-decoration:none; }  /*Linklerin ziyaret edildikten sonraki halidi*/
+
+a:hover { color:white; 
+    text-decoration:none; }  /*Mouse linkin üzerine geldiğindeki halidir.*/
+
+a:active { color:blue; 
+    text-decoration:none; }  /*Mouse ile linke tıklandığı andaki halidir.*/
